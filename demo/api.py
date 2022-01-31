@@ -1,4 +1,3 @@
-from crypt import methods
 from csv import DictReader
 from flask import current_app as app, request, abort
 from flask.json import dumps
